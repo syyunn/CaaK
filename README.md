@@ -1,4 +1,5 @@
-# caak
-Code as a Kapital that gets Labour as its composite to generate consumable value
+# Code as a Capital (CaaK)
 
-- how much something is externalized from me so that the thing can be combined with other resource for different or original purpose.
+- Capital is distingusibe from Labor by how much it can externalize the human labor productivity
+- Captial can be semi-capitalized, which means it still requires human labor to produce output.
+- Code as a Capital means code itself can produce output without labor input.
